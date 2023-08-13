@@ -1,17 +1,13 @@
-# namer_app
+# names-generator
 
-A new Flutter project.
+A Flutter application to generate random names.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+### iPhone 14 Pro Max
+<img src="screenshots/iOS-1.png" height="30%" width="30%">&nbsp;
+<img src="screenshots/iOS-2.png" height="30%" width="30%">&nbsp;
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Building Your First Flutter App - Codelab](https://www.youtube.com/watch?v=8sAyPDLorek)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Android
+<img src="screenshots/android-1.png" height="30%" width="30%">&nbsp;
+<img src="screenshots/android-2.png" height="30%" width="30%">&nbsp;
