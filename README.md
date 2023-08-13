@@ -15,3 +15,7 @@ A Flutter application to generate random names.
 ### macOS
 ![macOS-1](/screenshots/macOS-1.png)
 ![macOS-2](/screenshots/macOS-2.png)
+
+### Web
+![web-1](/screenshots/web-1.png)
+![web-2](/screenshots/web-2.png)
